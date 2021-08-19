@@ -16,3 +16,5 @@ Til að gera verkefnið fallegra var lítil rás hönnuð í KiCad, öll frumgö
 
 Innrauði skynjarinn sem notaður var heitir TSOP14636 og er hægt að kaupa á digikey.  
 https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSOP14636/8556493
+
+![mynd](https://i.imgur.com/2BiedcZ.jpg)
