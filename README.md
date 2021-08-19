@@ -14,5 +14,5 @@ https://forum.arduino.cc/t/continuous-rotation-servos-vs-dc-gear-motors/4631/5
 
 Til að gera verkefnið fallegra var lítil rás hönnuð í KiCad, öll frumgögnin er að finna í PCB.zip 
 
-Innrauði skynjarinn sem notaður var heitir TSOP14636 og er hægt að kaupa á digikey.
+Innrauði skynjarinn sem notaður var heitir TSOP14636 og er hægt að kaupa á digikey.  
 https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TSOP14636/8556493
