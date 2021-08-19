@@ -1,4 +1,6 @@
-# Fjarstýring
+# Fjarstýrt þríhjól
+
+![mynd](https://i.imgur.com/SeaKBxO.jpg)
 
 Til að sýna fram á hversu auðvelt er að stjórna hverju sem er með hvers konar fjarstýringu sem er, höfum við tengt örtölvuna við tvo servo mótora. Auðvelt væri að láta tölvuna stjórna ljósum eða öðru eins.
 
@@ -11,3 +13,4 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 https://forum.arduino.cc/t/continuous-rotation-servos-vs-dc-gear-motors/4631/5
 
 Til að gera verkefnið fallegra var lítil rás hönnuð í KiCad, öll frumgögnin er að finna í PCB.zip 
+
