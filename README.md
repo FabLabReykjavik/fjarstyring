@@ -9,3 +9,4 @@ Skjalið var sótt með library manager, sem er byggt inn í Arduino IDE og þa�
 Hægt er að fræðast um hvernig servo mótorum er stýrt hér:
 https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 https://forum.arduino.cc/t/continuous-rotation-servos-vs-dc-gear-motors/4631/5
+
